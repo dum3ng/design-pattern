@@ -13,4 +13,46 @@
 Priciple list
 
 - [KISS](KISS.md)
-- [YANGI](YANGI.md)
+- [YAGNI](YAGNI.md)
+- [Do The Simplest Thing That Could Possibly Work](Do_The_Simplest_Thing_That_Could_Possibly_Work.md)
+- [Separation of Concerns](Separation_of_Concerns.md)
+- [Keep Things DRY](DRY.md)
+- [Code For The Maintainer](Code_For_The_Maintainer.md)
+- [Avoid Premature Optimization](Avoid_Premature_Optimization.md)
+- [Boy-Scout Rule](Boy-Scout_Rule.md)
+
+Inter-Module/Class
+
+- [Minimise Coupling](Minimise_Coupling.md)
+- [Law of Demeter](Law_of_Demeter.md)
+- [Composition Over Inheritance]()
+- [Orthogonality]()
+- [Robustness Principle]()
+- [Inversion of Control]()
+
+Module/Class
+
+- [Maximise Cohesion]()
+- [Liskov Substitution Principle](Liskov_Substitution_Principle.md)
+- [Open/Closed Principle]()
+- [Single Responsibility Principle](Single_Responsibility_Principle.md)
+- [Hide Implementation Details]()
+- [Curly's Law]()
+- [Encapsulate What Changes]()
+- [Interface Segregation Principle](Interface_Segregation_Principle.md)
+- [Command Query Separation]()
+
+---
+
+SOLID
+
+- S.RP(Single Responsibility Principle)
+- O.CP(Open/Closed Principle)
+- L.SP(Liskov Substitution Principle)
+- I.SP(Interface Segragation Principle)
+- D.IP(Dependency Inversion Principle)
+
+---
+
+Reference:
+[principles](https://java-design-patterns.com/principles)
